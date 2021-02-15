@@ -4,6 +4,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import net.objecthunter.exp4j.ExpressionBuilder
 import kotlinx.android.synthetic.main.activity_main.*
+import net.objecthunter.exp4j.Expression
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?)
